@@ -38,12 +38,29 @@ body h1, body h2, body h3, body h4, body h5{
 	background-color: #282124;
 }
 
+.heading-section3{
+	background-color: #3F3B31;
+}
+
+.heading-section4{
+	background-color: #1A1A1A;
+}
+
 .main-heading{
 	text-align: center;
 	color: white;
 	font-size: 95px;
 	margin-top: 200px;
 	margin-bottom: 80px;
+	font-family: bebasregular;
+}
+
+.main-heading2{
+	text-align: center;
+	color: white;
+	font-size: 95px;
+	margin-top: 200px;
+	margin-bottom: 200px;
 	font-family: bebasregular;
 }
 
